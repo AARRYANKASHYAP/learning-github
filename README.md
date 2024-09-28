@@ -1,4 +1,4 @@
 # learning-github
 This is my first github repository.
 <br>
-Aauther- Aaryan Mani Kashyap
+Auther- Aaryan Mani Kashyap
